@@ -1,4 +1,5 @@
-* {
-	font-family: "eurostile", sans-serif;
-}
+html { 
+scroll-behavior: smooth;
+font-family: "eurostile", sans-serif; 
 
+}
